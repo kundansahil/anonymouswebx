@@ -1,2 +1,0 @@
-# anonymouswebx
-chat webapplication
